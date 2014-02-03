@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Recent Blog Posts
 tagline: 
 ---
 {% include JB/setup %}
