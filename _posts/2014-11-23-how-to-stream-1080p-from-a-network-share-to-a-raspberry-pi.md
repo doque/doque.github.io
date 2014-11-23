@@ -54,4 +54,3 @@ Once you've done that, you need to add that newly mounted directory `/media/movi
     </sources>
 
 The best part - you only need to do this once. Everytime you restart the Pi it will automatically re-mount the NFS share. Also you don't need to worry about storage - the NFS share is only linked virtually and files are copied to your Pi's memory card.
-
