@@ -2,7 +2,7 @@
 layout: post
 title: "How to stream 1080p from a Network Share to a Raspberry Pi"
 description: "This post shows you how to set up your raspberry pi to stream full-HD files from a network share without lag or stutter"
-category: 
+category: Geeky
 tags: ["raspberry pi", network, 1080p, media]
 ---
 {% include JB/setup %}
