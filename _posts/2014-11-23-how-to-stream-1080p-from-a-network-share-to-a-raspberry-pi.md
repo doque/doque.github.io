@@ -39,8 +39,6 @@ Once you've done that, you need to add that newly mounted directory `/media/movi
                 <allowsharing>true</allowsharing>
             </source>
             
-            
-            
         </video>
         <music>
             <default pathversion="1"></default>
